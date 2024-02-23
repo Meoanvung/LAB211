@@ -1,0 +1,5 @@
+cat - con meo
+dog - con cho
+cow - con bo
+lipstick - son moi
+
