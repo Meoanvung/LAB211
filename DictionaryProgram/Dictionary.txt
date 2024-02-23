@@ -1,0 +1,3 @@
+bag  - cai cap
+cow - con bo
+dog - con cho
